@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/index.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/Equipos.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/Campeones.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/historia.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/Ayuda.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/Legal.html</loc>
+</url>
+
+<url>
+<loc>https://ivgs07.github.io/WebLenguaje/sitemap.html</loc>
+</url>
+
+</urlset>
